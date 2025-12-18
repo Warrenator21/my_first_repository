@@ -6,5 +6,3 @@ Here's our todo:
 - [x] Make our first commit
 - [x] Fix this typo
 
-My name is Bob
-
